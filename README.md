@@ -1,5 +1,5 @@
 # 💫 About Me:
-Love cats and code for fun <br>'Finger in every pie' - it is about me (finance/marketing/pr/ and of course FRONTEND)
+Love cats and code for fun <br>
 
 
 ## 🌐 Socials:
