@@ -1,5 +1,4 @@
-# 💫 About Me:
-Love cats and code for fun <br>
+
 
 
 ## 🌐 Socials:
@@ -12,8 +11,6 @@ Love cats and code for fun <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nurstorm1&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nurstorm1&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=nurstorm1)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nurstorm1&icon=2&color=0)](https://visitcount.itsvg.in)
